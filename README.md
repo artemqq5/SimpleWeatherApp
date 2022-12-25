@@ -5,7 +5,7 @@ The app get data from some weather api and parse them to view user.
 
 The main functions of the application:
  - listening internet connection
- - do get requests to get some weather data 
+ - do requests to get some weather data 
  - do not need location permissions to show data
 
 Uses of technology:

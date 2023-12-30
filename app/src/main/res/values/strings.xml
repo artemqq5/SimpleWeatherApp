@@ -89,4 +89,9 @@
         "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
         "when a user tries to pick up one of cards.\n\n"
     </string>
+    <string name="for_example_london">for example, London</string>
+    <string name="weather_location">Weather location</string>
+    <string name="get_location">Get location</string>
+    <string name="sorry_but_we_don_t_have_data_for_this_location">Sorry, but we don\'t have data for this location(</string>
+    <string name="internet_connection_lost">Internet connection lost</string>
 </resources>

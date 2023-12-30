@@ -19,3 +19,5 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+-keep class andr.rednifrehtaew.weatherfinder.data.network.models.** {*;}
+-keep class andr.rednifrehtaew.weatherfinder.domain.models.** {*;}
